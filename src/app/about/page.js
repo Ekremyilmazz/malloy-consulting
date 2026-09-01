@@ -1,4 +1,5 @@
 import { aboutContent } from "@/lib/constants";
+import FeaturedBook from "@/components/sections/FeaturedBook";
 
 export default function AboutPage() {
   return (
@@ -29,6 +30,7 @@ export default function AboutPage() {
           <p className="text-[#4A4E5C]">{aboutContent.founder.bio}</p>
         </div>
       </div>
+      <FeaturedBook />
     </div>
   );
 }

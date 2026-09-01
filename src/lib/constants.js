@@ -97,3 +97,14 @@ export const aboutContent = {
       "Dr. Kim Malloy has spent 20+ years coaching executives and teams. She is a co-author of a best-selling leadership book series, endorsed by top voices in the industry.",
   },
 };
+
+export const featuredBook = {
+  title: "Cracking the Rich Code",
+  edition: "Special Edition, Volume 12",
+  tagline:
+    "Elevate your personal and professional journey through the wisdom of 21 top thought leaders.",
+  endorsement: "Endorsed by Tony Robbins, with a foreword by Brian Tracy.",
+  authorNote: "Dr. Kim Malloy is a co-author of this best-selling series.",
+  ctaLabel: "Order Your Copy",
+  ctaUrl: "#",
+};
