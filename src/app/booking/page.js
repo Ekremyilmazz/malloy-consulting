@@ -37,7 +37,7 @@ export default function BookingPage() {
 
         <div className="mt-12 overflow-hidden rounded-2xl border border-[#151A2E]/10">
           <Cal
-            calLink="ekrem-yilmaz/discovery-call"
+            calLink="ekrem-yilmaz/malloy-consulting"
             style={{ width: "100%", height: "700px", overflow: "scroll" }}
             config={{ layout: "month_view" }}
           />
